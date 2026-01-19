@@ -1,4 +1,4 @@
-#  Loan Risk Analysis Project (Day 1) — Master Table Creation + Initial Data Validation
+#  Loan Risk Analysis Project — Master Table Creation + Initial Data Validation
 
 ##  Project Overview
 This project is a **loan risk analysis** project based on real-world banking data.  
